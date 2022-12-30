@@ -64,3 +64,9 @@ button {
     background-color: #fff;
     color: rgb(121, 121, 240);
 }
+
+@media only screen and (max-width: 600px) {
+   .item{
+    width: 100%;
+   }
+  }
